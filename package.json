@@ -1,7 +1,7 @@
 {
-  "name": "wd-201-online-voting-platform",
+  "name": "l11 voting",
   "version": "1.0.0",
-  "description": "Capstone project for Pupilfirst WD 201 course",
+  "description": "final project",
   "main": "index.js",
   "scripts": {
     "start:prod": "node index.js",
@@ -16,16 +16,11 @@
       "prettier --write ."
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Aravind-Kannan/wd-201-online-voting-platform.git"
-  },
-  "author": "Aravind Kannan Rathinasabpathi <aravindkannan2001@gmail.com>",
+
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Aravind-Kannan/wd-201-online-voting-platform/issues"
-  },
-  "homepage": "https://github.com/Aravind-Kannan/wd-201-online-voting-platform#readme",
+ 
+  "homepage": "",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "connect-ensure-login": "^0.1.1",
